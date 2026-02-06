@@ -1,4 +1,4 @@
-# Elixir Training Lesson template
+#  This is the template for a training lesson, based on the Elixir Training Lesson template 
 
 [![DOI](https://zenodo.org/badge/564252010.svg)](https://zenodo.org/badge/latestdoi/564252010)
 
