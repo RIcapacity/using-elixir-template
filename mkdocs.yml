@@ -1,4 +1,4 @@
-site_name: ELIXIR Training Lesson
+site_name: ARISE materials based on the elixir Training Lesson
 nav:
     - About: index.md
     - Course Content:
@@ -20,8 +20,8 @@ theme:
     text: Lato
 
 # Repository
-repo_name: elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs
-repo_url: https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs
+repo_name: ricapacity/using-elixir-template
+repo_url: https://ricapacity.github.io/using-elixir-template/
 edit_uri: edit/main/docs/
 
 plugins:
@@ -34,7 +34,7 @@ plugins:
 
   
 # Footer
-copyright: By the ELIXIR Training Platform
+copyright: By RIcapacity working on the the ELIXIR Training Platform
 
 markdown_extensions:
   - abbr
