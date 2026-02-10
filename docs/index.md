@@ -31,11 +31,11 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-solid-users: **Target Audience:**  
-    1. for self paced learning
-    2. for trainers: using it for training
-    3. for community: using it to collect the knowledge in one place. 
-    &emsp;1. self-paced learning: core facility staff, Researchers aiming for careers in research infrastructures, PostDocs, technology developers, undergraduate students, postgraduate students, etc...  
-    &emsp;2. trainers of the courses for training of above listed groupes 
+        1. for self paced learning
+        2. for trainers: using it for training
+        3. for community: using it to collect the knowledge in one place. 
+        &emsp;1. self-paced learning: core facility staff, Researchers aiming for careers in research infrastructures, PostDocs, technology developers, undergraduate students, postgraduate students, etc...  
+        &emsp;2. trainers of the courses for training of above listed groupes 
     
 
     </br>
@@ -44,7 +44,8 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241. .  
+    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241.   
+
 
     :fontawesome-regular-clock: **Time plan**
     00-15
@@ -54,6 +55,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     60-75
     75-90
     105-120
+
 
     📖 :fontawesome-solid-list-check: **ARISE competencies covered by this course**
     1. 
