@@ -31,6 +31,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-solid-users: **Target Audience:**  
+    The training materials are meant for:
     &emsp;1. For self-paced learning  
     &emsp;2. For trainers: using it for training  
     &emsp;3. For community: using it to collect the knowledge in one place  
@@ -48,6 +49,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-regular-clock: **Time plan:**  
+    The content will approximately follow this time plan:
     &emsp;00-15  
     &emsp;15-30  
     &emsp;30-45  
@@ -58,7 +60,8 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     </br>
     
-    📖 :fontawesome-solid-list-check: **ARISE competencies covered by this course:**  
+    :fontawesome-solid-list-check: **ARISE competencies covered by this course:**  
+    
     &emsp;1. First competency  
     &emsp;2. Second competency  
     &emsp;3. Third competency  
