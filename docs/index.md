@@ -46,6 +46,21 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241. .  
 
+    :fontawesome-regular-clock: **Time plan**
+    00-15
+    15-30
+    30-45
+    45-60
+    60-75
+    75-90
+    105-120
+
+    📖 :fontawesome-solid-list-check: **ARISE competencies covered by this course**
+    1. 
+    2.
+    3.
+    
+
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
     [comment]: # (Property in Bioschema: teaches)
