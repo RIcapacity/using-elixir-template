@@ -1,4 +1,4 @@
-# ELIXIR Lesson Title 
+# ARISE Lesson Title 
 
 [add-bioschemas file='_data/metadata.yaml']
 
