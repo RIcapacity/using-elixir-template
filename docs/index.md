@@ -31,7 +31,9 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-solid-users: **Target Audience:**  
-    By the end of the course, learners will be able to:  
+    1. for self paced learning
+    2. for trainers: using it for training
+    3. for community: using it to collect the knowledge in one place. 
     &emsp;1. self-paced learning: core facility staff, Researchers aiming for careers in research infrastructures, PostDocs, technology developers, undergraduate students, postgraduate students, etc...  
     &emsp;2. trainers of the courses for training of above listed groupes 
     
