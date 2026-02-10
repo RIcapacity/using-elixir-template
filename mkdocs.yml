@@ -34,7 +34,7 @@ plugins:
 
   
 # Footer
-copyright: By RIcapacity working on the the ELIXIR Training Platform
+copyright: This repository is created by RIcapacity working on ARISE2 project. 
 
 markdown_extensions:
   - abbr
