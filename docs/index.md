@@ -1,4 +1,4 @@
-# ARISE Lesson Title 
+# ARISE course title 
 
 [add-bioschemas file='_data/metadata.yaml']
 
@@ -30,14 +30,16 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Researchers, core facility staff, PostDocs aiming for careers in research infrastructures, technology developers, undergraduate students, postgraduate students, etc...  
+    :fontawesome-solid-users: **Target Audience:**
+      &emsp;1. self-paced learning: core facility staff, Researchers aiming for careers in research infrastructures, PostDocs, technology developers, undergraduate students, postgraduate students, etc...  
+       &emsp;2. trainers of the courses for training of above listed groupes.
     </br>
     
     :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from EC MSCA Cofund grant ARISE2.  
+    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241. .  
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
@@ -57,16 +59,12 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 Please cite as:
 
-  1. Enter your citation here.
-  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
+  1. Authors. (year). Title of the course. Zenodo. DOI.
+  2. e.g. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
 
 ---
-## Setup
 
-### Data setup
-To run this lesson you need to install data from …
 
-### Software setup
-To run this course you need to install… continue with software installation instructions
+
 
 
