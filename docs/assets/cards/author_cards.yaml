@@ -1,16 +1,16 @@
-- title: Zeus
+- title: Trainer 1
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
   image: ./assets/images/cards/001-zeus.png
 
-- title: Athena
+- title: Trainer 2
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
   image: ./assets/images/cards/003-athena.png
 
-- title: Poseidon
+- title: Trainer 3
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
