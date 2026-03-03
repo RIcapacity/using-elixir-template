@@ -10,7 +10,7 @@ nav:
 
 theme:
   name: material
-  logo: assets/images/white-orange-logo.png
+  logo: assets/images/ARISE2_logo_RGB.png
   favicon: assets/images/elixir_favicon.ico
   custom_dir: overrides
   features:
