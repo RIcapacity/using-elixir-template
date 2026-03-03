@@ -78,9 +78,9 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 ---
 
-    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+:fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241.   
+:fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241.   
     
 ---
 ## Citing this lesson
