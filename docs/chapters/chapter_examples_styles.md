@@ -1,15 +1,15 @@
-##This is example of how to make a box for Examples
+## This is example of how to make a box for Examples
 !!! info "Example"
     This box contains important information
 
-##This is how to make a box for exercises, showing also a solution
+## This is how to make a box for exercises, showing also a solution
 !!! example "Exercise"
     This is a question
 
     ??? success "Solution"
         this is the solution to the question
 
-##This is how to add an image from an online resource
+## This is how to add an image from an online resource
 If you want to add an image, the best way would be to use html, e.g:
 
 ```html
@@ -19,7 +19,7 @@ If you want to add an image, the best way would be to use html, e.g:
 </figure>
 ```
 
-##This is how to add an image which needs to be uploaded to the repository (not available online)
+## This is how to add an image which needs to be uploaded to the repository (not available online)
 If you want to use local images, add them to docs/assets/images and refer to them in the html as a relative path, e.g.:
 
 ```html
@@ -28,7 +28,7 @@ If you want to use local images, add them to docs/assets/images and refer to the
 <figcaption> Elixir image </figcaption>
 </figure>
 ```
-##This is how to add references
+## This is how to add references
 In order to add a reference, add it in bibtex format to references.bib located in the main directory, cite it in your markdown document with `` and cite 1 like this:
 
 
@@ -41,4 +41,4 @@ or use https://www.tablesgenerator.com/markdown_tables
 | 12:00     | 13:00     | lunch!    |
 ---
 
-
+## this is how to add a reference
