@@ -5,13 +5,14 @@ nav:
       - "1. title of first chapter": chapters/chapter_01.md
       - "2. title of second chapter": chapters/chapter_02.md
       - "3. title of third chapter" : chapters/chapter_03.md
+      - "4. title of fourth chapter": chapters/chapter_examples_styles.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
 theme:
   name: material
   logo: assets/images/ARISE2_logo_RGB.png
-  favicon: assets/images/elixir_favicon.ico
+  favicon: assets/images/ARISE2_logo_RGB.png
   custom_dir: overrides
   features:
     - navigation.top
@@ -21,8 +22,8 @@ theme:
     text: Lato
 
 # Repository
-repo_name: ricapacity/using-elixir-template
-repo_url: https://ricapacity.github.io/using-elixir-template/
+repo_name: ricapacity/Template_for_ARISE2_materials
+repo_url: https://ricapacity.github.io/Template_for_ARISE2_materials/
 edit_uri: edit/main/docs/
 
 plugins:
